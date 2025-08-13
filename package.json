@@ -2,7 +2,6 @@
   "name": "RaviPortfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ark12321.github.io/RaviPortfolio",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.11.4",
